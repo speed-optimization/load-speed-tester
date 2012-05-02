@@ -1,6 +1,6 @@
 # Load Speed Tester
 
-Load Speed Tester is a set of scripts to measure the load spead of a URL.
+Load Speed Tester is a set of scripts to measure the load speed of a URL.
 
 
 ## Getting Started
