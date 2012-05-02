@@ -102,9 +102,9 @@ Please note that this output is intended as a summary only. To get detailed sugg
     +- Minify CSS..........................................0
 
 
-## Known Bugs
+## Known Bugs and Feature Requests
 
-Coming soon.
+Take a look at the [issues tracker](https://github.com/jonathanmaron/load-speed-tester/issues) to see current bugs, to file new bug reports and to request new features.
 
 
 ## Next Steps
