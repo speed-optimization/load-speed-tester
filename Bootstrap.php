@@ -12,7 +12,7 @@ define('PATH_CONFIG' , PATH_ROOT . '/config');
 /**
  * Default Zend_Console_Getopt values
  */
-define('GETOPT_DEFAULT_ROUNDS'  ,   5);
+define('GETOPT_DEFAULT_ROUNDS'  ,  5);
 define('GETOPT_DEFAULT_STRATEGY', 'desktop');
 
 /* -------------------------------------------------------------------------- */
