@@ -1,0 +1,20 @@
+
+; ------------------------------------------------------------------------------
+
+; Version Number of Load Speed Tester
+version = 0.1
+
+; ------------------------------------------------------------------------------
+
+; Your Google API Key
+googleApiKey = 'xxxxxxxxxx'
+
+; Google PageSpeed API Uri
+googleApiUri = https://www.googleapis.com/pagespeedonline/v1/runPagespeed
+
+; ------------------------------------------------------------------------------
+
+; Filename of PhantomJs' executable binary
+phantomJsExec = /usr/local/phantomjs/bin/phantomjs
+
+; ------------------------------------------------------------------------------
